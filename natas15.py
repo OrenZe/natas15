@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # This script will check for natas16 password in the database char by char
 # Based on the output of the page, check for first char, second and so on..
 
